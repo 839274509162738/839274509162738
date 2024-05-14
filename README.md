@@ -13,7 +13,7 @@
 ## <h3 align="center">📚 Currently Learning</h3>
 
 - **Backend Development**
-  - Go, Python, JS, C
+  - **Go, Python, JS, C**
 
 ## <h3 align="center">📧 Contact Me</h3>
 
