@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 839274509162738</h1>
+<h1 align="center" style="font-weight: bold; color: #E34C26;">839274509162738</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=839274509162738&label=Profile%20views&color=c8bb99&style=flat" alt="839274509162738" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=839274509162738&theme=gruvbox" alt="839274509162738" /></a> </p>
@@ -18,7 +18,6 @@
 <br/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=839274509162738&show_icons=true&theme=gruvbox&locale=en" alt="839274509162738" /></p>
 
-<br/>
 <p align="center">
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&border=true)]
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&border=true" alt="Readme Quotes">
 </p>
