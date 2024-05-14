@@ -1,6 +1,10 @@
 <img align="center" src="https://cdn.discordapp.com/attachments/1218603664244211745/1239712898016874496/clVbaoq.png?ex=6643ec1b&is=66429a9b&hm=7aab5377f314ad0fb90506929b9ec99bc13aa9a1067407496e014b91d874cb7a&" alt="Header">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&pause=1000&color=C8BB99&background=28282800&center=true&vCenter=true&multiline=true&random=false&width=435&lines=GNU+Demon++%F0%9F%98%88)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&pause=1000&color=C8BB99&background=28282800&center=true&vCenter=true&multiline=true&random=false&width=435&lines=GNU+Demon++%F0%9F%98%88" alt="Typing SVG">
+  </a>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=839274509162738&label=Profile%20views&color=c8bb99&style=flat" alt="839274509162738" /> </p>
 
