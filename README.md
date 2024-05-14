@@ -18,6 +18,9 @@
 <br/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=839274509162738&show_icons=true&theme=gruvbox&locale=en" alt="839274509162738" /></p>
 
+<br/>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&border=true" alt="Readme Quotes">
 </p>
+
+<br/>
