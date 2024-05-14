@@ -1,12 +1,16 @@
-<h1 align="center" style="font-weight: bold; color: #E34C26;">839274509162738</h1>
+<img align="center" src="https://cdn.discordapp.com/attachments/1218603664244211745/1239712898016874496/clVbaoq.png?ex=6643ec1b&is=66429a9b&hm=7aab5377f314ad0fb90506929b9ec99bc13aa9a1067407496e014b91d874cb7a&" alt="Header">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&pause=1000&color=C8BB99&background=28282800&center=true&vCenter=true&multiline=true&random=false&width=435&lines=GNU+Demon++%F0%9F%98%88)](https://git.io/typing-svg)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=839274509162738&label=Profile%20views&color=c8bb99&style=flat" alt="839274509162738" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=839274509162738&theme=gruvbox" alt="839274509162738" /></a> </p>
 
-- 🌱 I’m currently learning **backend development**
-  - I'm taking courses on the following platforms:
-    - **boot.dev**
-    - **udemy.com**
+## 🌱 I’m currently learning **backend development**
+
+    - I'm taking courses on the following platforms:
+        - **boot.dev**
+        - **udemy.com**
 
 <h3 align="center">Contact Me</h3>
 <p align="center"> <a href="https://discord.com/users/:1217485745321803870"> <img src="https://lanyard.cnrad.dev/api/1217485745321803870?theme=dark&bg=282828&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20Wasting%20%Time..." alt="Discord Presence"> </p>
