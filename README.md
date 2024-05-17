@@ -1,4 +1,4 @@
-<img align="center" src="https://cdn.discordapp.com/attachments/1218603664244211745/1239712898016874496/clVbaoq.png?ex=6643ec1b&is=66429a9b&hm=7aab5377f314ad0fb90506929b9ec99bc13aa9a1067407496e014b91d874cb7a&" alt="Header">
+<img align="center" src="./clVbaoq.png" alt="Header">
 
 <p align="center">
   <a href="https://git.io/typing-svg">
