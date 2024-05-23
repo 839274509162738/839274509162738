@@ -15,10 +15,6 @@
 - **Backend Development**
   - **Go, Python, JS, C**
 
-## <h3 align="center">📧 Contact Me</h3>
-
-<p align="center"> <a href="https://discord.com/users/:1217485745321803870"> <img src="https://lanyard.cnrad.dev/api/1217485745321803870?theme=dark&bg=282828&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20Wasting%20%Time..." alt="Discord Presence"> </p>
-
 ## <h3 align="center">💻 Languages and Tools</h3>
 
 <br/>
